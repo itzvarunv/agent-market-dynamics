@@ -1,0 +1,456 @@
+{
+  "agent_id": "NeuralBot_036",
+  "status": "Alive",
+  "journal": [
+    {
+      "step": 1,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8154,
+      "actual_clearing_price": 29.0,
+      "net_profit_margin": -6.2163,
+      "dividend_earned": 0.9
+    },
+    {
+      "step": 2,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.8084,
+      "actual_clearing_price": 141.0,
+      "net_profit_margin": -6.655,
+      "dividend_earned": 0.8
+    },
+    {
+      "step": 3,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.8076,
+      "actual_clearing_price": 137.0,
+      "net_profit_margin": -10.655,
+      "dividend_earned": 0.7
+    },
+    {
+      "step": 4,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.808,
+      "actual_clearing_price": 143.0,
+      "net_profit_margin": -6.5217,
+      "dividend_earned": 2.2
+    },
+    {
+      "step": 5,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8001,
+      "actual_clearing_price": 31.0,
+      "net_profit_margin": -1.3249,
+      "dividend_earned": 2.2
+    },
+    {
+      "step": 6,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8032,
+      "actual_clearing_price": 127.0,
+      "net_profit_margin": -22.5217,
+      "dividend_earned": 2.0
+    },
+    {
+      "step": 7,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8083,
+      "actual_clearing_price": 109.0,
+      "net_profit_margin": -40.5217,
+      "dividend_earned": 1.9
+    },
+    {
+      "step": 8,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7876,
+      "actual_clearing_price": 27.0,
+      "net_profit_margin": -5.3249,
+      "dividend_earned": 2.0
+    },
+    {
+      "step": 9,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7828,
+      "actual_clearing_price": 115.0,
+      "net_profit_margin": -32.655,
+      "dividend_earned": 0.6
+    },
+    {
+      "step": 10,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8079,
+      "actual_clearing_price": 92.0,
+      "net_profit_margin": -57.5217,
+      "dividend_earned": 1.8
+    },
+    {
+      "step": 11,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7847,
+      "actual_clearing_price": 24.0,
+      "net_profit_margin": -11.2163,
+      "dividend_earned": 0.8
+    },
+    {
+      "step": 12,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7808,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.9
+    },
+    {
+      "step": 13,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8085,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -69.5217,
+      "dividend_earned": 1.7
+    },
+    {
+      "step": 14,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7736,
+      "actual_clearing_price": 94.0,
+      "net_profit_margin": -53.655,
+      "dividend_earned": 0.5
+    },
+    {
+      "step": 15,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.8111,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -79.5217,
+      "dividend_earned": 1.6
+    },
+    {
+      "step": 16,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7831,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 17,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7925,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.2
+    },
+    {
+      "step": 18,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7702,
+      "actual_clearing_price": 20.0,
+      "net_profit_margin": -15.2163,
+      "dividend_earned": 0.6
+    },
+    {
+      "step": 19,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7823,
+      "actual_clearing_price": 20.0,
+      "net_profit_margin": -15.2163,
+      "dividend_earned": 0.4
+    },
+    {
+      "step": 20,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7771,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.1
+    },
+    {
+      "step": 21,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.772,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 22,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7878,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -79.5217,
+      "dividend_earned": 1.5
+    },
+    {
+      "step": 23,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7643,
+      "actual_clearing_price": 20.0,
+      "net_profit_margin": -15.2163,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 24,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7509,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 25,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7363,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 26,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.7218,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 27,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7454,
+      "actual_clearing_price": 20.0,
+      "net_profit_margin": -15.2163,
+      "dividend_earned": 0.1
+    },
+    {
+      "step": 28,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7219,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.8
+    },
+    {
+      "step": 29,
+      "ticker_traded": "BETA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7497,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -79.5217,
+      "dividend_earned": 1.3
+    },
+    {
+      "step": 30,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.6998,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 31,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.6947,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 32,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.6828,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 33,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6969,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.7
+    },
+    {
+      "step": 34,
+      "ticker_traded": "DELTA",
+      "action": "SELL",
+      "predicted_multiplier": 0.7025,
+      "actual_clearing_price": 20.0,
+      "net_profit_margin": -15.2163,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 35,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6867,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.6
+    },
+    {
+      "step": 36,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6804,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.5
+    },
+    {
+      "step": 37,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6677,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.3
+    },
+    {
+      "step": 38,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6493,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.2
+    },
+    {
+      "step": 39,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.6328,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 40,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6385,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 1.0
+    },
+    {
+      "step": 41,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6343,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 0.9
+    },
+    {
+      "step": 42,
+      "ticker_traded": "BETA",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.6781,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 1.3
+    },
+    {
+      "step": 43,
+      "ticker_traded": "QUANT",
+      "action": "SELL",
+      "predicted_multiplier": 0.604,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -67.655,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 44,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.6209,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -10.3249,
+      "dividend_earned": 0.7
+    },
+    {
+      "step": 45,
+      "ticker_traded": "QUANT",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.5939,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 46,
+      "ticker_traded": "BETA",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.6561,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 1.3
+    },
+    {
+      "step": 47,
+      "ticker_traded": "SIGMA",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.6067,
+      "actual_clearing_price": 22.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 0.7
+    },
+    {
+      "step": 48,
+      "ticker_traded": "BETA",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.6444,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 1.3
+    },
+    {
+      "step": 49,
+      "ticker_traded": "QUANT",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.59,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 0.0
+    },
+    {
+      "step": 50,
+      "ticker_traded": "BETA",
+      "action": "HOLD_DENIED",
+      "predicted_multiplier": 0.6304,
+      "actual_clearing_price": 70.0,
+      "net_profit_margin": -0.25,
+      "dividend_earned": 1.3
+    }
+  ]
+}

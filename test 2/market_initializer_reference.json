@@ -1,0 +1,432 @@
+{
+  "initial_prices": {
+    "DELTA": 34.9663,
+    "SIGMA": 32.0749,
+    "QUANT": 147.405,
+    "BETA": 149.2717
+  },
+  "bot_allocations": {
+    "NeuralBot_001": {
+      "DELTA": 18,
+      "SIGMA": 25,
+      "QUANT": 19,
+      "BETA": 20
+    },
+    "NeuralBot_002": {
+      "DELTA": 6,
+      "SIGMA": 24,
+      "QUANT": 21,
+      "BETA": 23
+    },
+    "NeuralBot_003": {
+      "DELTA": 24,
+      "SIGMA": 13,
+      "QUANT": 23,
+      "BETA": 5
+    },
+    "NeuralBot_004": {
+      "DELTA": 12,
+      "SIGMA": 10,
+      "QUANT": 6,
+      "BETA": 17
+    },
+    "NeuralBot_005": {
+      "DELTA": 17,
+      "SIGMA": 24,
+      "QUANT": 12,
+      "BETA": 11
+    },
+    "NeuralBot_006": {
+      "DELTA": 25,
+      "SIGMA": 24,
+      "QUANT": 20,
+      "BETA": 10
+    },
+    "NeuralBot_007": {
+      "DELTA": 14,
+      "SIGMA": 6,
+      "QUANT": 23,
+      "BETA": 13
+    },
+    "NeuralBot_008": {
+      "DELTA": 6,
+      "SIGMA": 9,
+      "QUANT": 21,
+      "BETA": 12
+    },
+    "NeuralBot_009": {
+      "DELTA": 21,
+      "SIGMA": 25,
+      "QUANT": 11,
+      "BETA": 5
+    },
+    "NeuralBot_010": {
+      "DELTA": 6,
+      "SIGMA": 8,
+      "QUANT": 9,
+      "BETA": 8
+    },
+    "NeuralBot_011": {
+      "DELTA": 10,
+      "SIGMA": 22,
+      "QUANT": 6,
+      "BETA": 11
+    },
+    "NeuralBot_012": {
+      "DELTA": 15,
+      "SIGMA": 17,
+      "QUANT": 25,
+      "BETA": 16
+    },
+    "NeuralBot_013": {
+      "DELTA": 21,
+      "SIGMA": 24,
+      "QUANT": 6,
+      "BETA": 13
+    },
+    "NeuralBot_014": {
+      "DELTA": 10,
+      "SIGMA": 16,
+      "QUANT": 24,
+      "BETA": 9
+    },
+    "NeuralBot_015": {
+      "DELTA": 21,
+      "SIGMA": 16,
+      "QUANT": 7,
+      "BETA": 20
+    },
+    "NeuralBot_016": {
+      "DELTA": 13,
+      "SIGMA": 14,
+      "QUANT": 16,
+      "BETA": 6
+    },
+    "NeuralBot_017": {
+      "DELTA": 21,
+      "SIGMA": 11,
+      "QUANT": 25,
+      "BETA": 7
+    },
+    "NeuralBot_018": {
+      "DELTA": 20,
+      "SIGMA": 15,
+      "QUANT": 25,
+      "BETA": 14
+    },
+    "NeuralBot_019": {
+      "DELTA": 6,
+      "SIGMA": 21,
+      "QUANT": 18,
+      "BETA": 5
+    },
+    "NeuralBot_020": {
+      "DELTA": 14,
+      "SIGMA": 16,
+      "QUANT": 10,
+      "BETA": 7
+    },
+    "NeuralBot_021": {
+      "DELTA": 25,
+      "SIGMA": 6,
+      "QUANT": 21,
+      "BETA": 15
+    },
+    "NeuralBot_022": {
+      "DELTA": 6,
+      "SIGMA": 24,
+      "QUANT": 12,
+      "BETA": 10
+    },
+    "NeuralBot_023": {
+      "DELTA": 17,
+      "SIGMA": 5,
+      "QUANT": 10,
+      "BETA": 25
+    },
+    "NeuralBot_024": {
+      "DELTA": 9,
+      "SIGMA": 21,
+      "QUANT": 6,
+      "BETA": 8
+    },
+    "NeuralBot_025": {
+      "DELTA": 12,
+      "SIGMA": 23,
+      "QUANT": 24,
+      "BETA": 15
+    },
+    "NeuralBot_026": {
+      "DELTA": 22,
+      "SIGMA": 23,
+      "QUANT": 23,
+      "BETA": 5
+    },
+    "NeuralBot_027": {
+      "DELTA": 22,
+      "SIGMA": 22,
+      "QUANT": 16,
+      "BETA": 7
+    },
+    "NeuralBot_028": {
+      "DELTA": 12,
+      "SIGMA": 9,
+      "QUANT": 12,
+      "BETA": 6
+    },
+    "NeuralBot_029": {
+      "DELTA": 23,
+      "SIGMA": 19,
+      "QUANT": 19,
+      "BETA": 8
+    },
+    "NeuralBot_030": {
+      "DELTA": 21,
+      "SIGMA": 13,
+      "QUANT": 8,
+      "BETA": 24
+    },
+    "NeuralBot_031": {
+      "DELTA": 24,
+      "SIGMA": 21,
+      "QUANT": 15,
+      "BETA": 10
+    },
+    "NeuralBot_032": {
+      "DELTA": 18,
+      "SIGMA": 17,
+      "QUANT": 17,
+      "BETA": 17
+    },
+    "NeuralBot_033": {
+      "DELTA": 6,
+      "SIGMA": 10,
+      "QUANT": 23,
+      "BETA": 7
+    },
+    "NeuralBot_034": {
+      "DELTA": 20,
+      "SIGMA": 11,
+      "QUANT": 10,
+      "BETA": 11
+    },
+    "NeuralBot_035": {
+      "DELTA": 21,
+      "SIGMA": 17,
+      "QUANT": 19,
+      "BETA": 16
+    },
+    "NeuralBot_036": {
+      "DELTA": 11,
+      "SIGMA": 23,
+      "QUANT": 9,
+      "BETA": 23
+    },
+    "NeuralBot_037": {
+      "DELTA": 5,
+      "SIGMA": 23,
+      "QUANT": 16,
+      "BETA": 17
+    },
+    "NeuralBot_038": {
+      "DELTA": 23,
+      "SIGMA": 21,
+      "QUANT": 15,
+      "BETA": 6
+    },
+    "NeuralBot_039": {
+      "DELTA": 19,
+      "SIGMA": 19,
+      "QUANT": 8,
+      "BETA": 10
+    },
+    "NeuralBot_040": {
+      "DELTA": 6,
+      "SIGMA": 18,
+      "QUANT": 24,
+      "BETA": 13
+    },
+    "NeuralBot_041": {
+      "DELTA": 25,
+      "SIGMA": 16,
+      "QUANT": 13,
+      "BETA": 16
+    },
+    "NeuralBot_042": {
+      "DELTA": 23,
+      "SIGMA": 16,
+      "QUANT": 19,
+      "BETA": 5
+    },
+    "NeuralBot_043": {
+      "DELTA": 15,
+      "SIGMA": 8,
+      "QUANT": 21,
+      "BETA": 7
+    },
+    "NeuralBot_044": {
+      "DELTA": 18,
+      "SIGMA": 22,
+      "QUANT": 7,
+      "BETA": 6
+    },
+    "NeuralBot_045": {
+      "DELTA": 17,
+      "SIGMA": 14,
+      "QUANT": 24,
+      "BETA": 14
+    },
+    "NeuralBot_046": {
+      "DELTA": 16,
+      "SIGMA": 23,
+      "QUANT": 14,
+      "BETA": 7
+    },
+    "NeuralBot_047": {
+      "DELTA": 12,
+      "SIGMA": 5,
+      "QUANT": 13,
+      "BETA": 16
+    },
+    "NeuralBot_048": {
+      "DELTA": 11,
+      "SIGMA": 22,
+      "QUANT": 25,
+      "BETA": 20
+    },
+    "NeuralBot_049": {
+      "DELTA": 8,
+      "SIGMA": 8,
+      "QUANT": 5,
+      "BETA": 24
+    },
+    "NeuralBot_050": {
+      "DELTA": 9,
+      "SIGMA": 8,
+      "QUANT": 15,
+      "BETA": 19
+    },
+    "NeuralBot_051": {
+      "DELTA": 5,
+      "SIGMA": 18,
+      "QUANT": 5,
+      "BETA": 10
+    },
+    "NeuralBot_052": {
+      "DELTA": 19,
+      "SIGMA": 20,
+      "QUANT": 8,
+      "BETA": 14
+    },
+    "NeuralBot_053": {
+      "DELTA": 8,
+      "SIGMA": 21,
+      "QUANT": 11,
+      "BETA": 23
+    },
+    "NeuralBot_054": {
+      "DELTA": 7,
+      "SIGMA": 18,
+      "QUANT": 9,
+      "BETA": 24
+    },
+    "NeuralBot_055": {
+      "DELTA": 9,
+      "SIGMA": 8,
+      "QUANT": 8,
+      "BETA": 17
+    },
+    "NeuralBot_056": {
+      "DELTA": 7,
+      "SIGMA": 14,
+      "QUANT": 17,
+      "BETA": 22
+    },
+    "NeuralBot_057": {
+      "DELTA": 7,
+      "SIGMA": 9,
+      "QUANT": 5,
+      "BETA": 24
+    },
+    "NeuralBot_058": {
+      "DELTA": 11,
+      "SIGMA": 23,
+      "QUANT": 15,
+      "BETA": 22
+    },
+    "NeuralBot_059": {
+      "DELTA": 20,
+      "SIGMA": 14,
+      "QUANT": 17,
+      "BETA": 17
+    },
+    "NeuralBot_060": {
+      "DELTA": 17,
+      "SIGMA": 16,
+      "QUANT": 22,
+      "BETA": 10
+    }
+  },
+  "baseline_net_worths": {
+    "NeuralBot_001": 12217.3949,
+    "NeuralBot_002": 12508.3495,
+    "NeuralBot_003": 10392.8384,
+    "NeuralBot_004": 9162.3935,
+    "NeuralBot_005": 9775.0734,
+    "NeuralBot_006": 11084.7721,
+    "NeuralBot_007": 11012.8247,
+    "NeuralBot_008": 10385.2373,
+    "NeuralBot_009": 8903.9783,
+    "NeuralBot_010": 7987.2156,
+    "NeuralBot_011": 8581.7295,
+    "NeuralBot_012": 12143.24,
+    "NeuralBot_013": 9329.052,
+    "NeuralBot_014": 10744.0267,
+    "NeuralBot_015": 10264.7597,
+    "NeuralBot_016": 9157.7207,
+    "NeuralBot_017": 10817.1431,
+    "NeuralBot_018": 11955.3783,
+    "NeuralBot_019": 9283.0192,
+    "NeuralBot_020": 8521.6785,
+    "NeuralBot_021": 11401.1874,
+    "NeuralBot_022": 9241.1724,
+    "NeuralBot_023": 10960.6441,
+    "NeuralBot_024": 8066.8732,
+    "NeuralBot_025": 11934.1138,
+    "NeuralBot_026": 10643.6548,
+    "NeuralBot_027": 9878.2883,
+    "NeuralBot_028": 8372.7599,
+    "NeuralBot_029": 10408.5166,
+    "NeuralBot_030": 10913.0268,
+    "NeuralBot_031": 10216.5561,
+    "NeuralBot_032": 11218.1706,
+    "NeuralBot_033": 9965.7637,
+    "NeuralBot_034": 9168.1886,
+    "NeuralBot_035": 11468.6078,
+    "NeuralBot_036": 10882.2461,
+    "NeuralBot_037": 10808.6531,
+    "NeuralBot_038": 9584.503,
+    "NeuralBot_039": 8945.7398,
+    "NeuralBot_040": 11265.3981,
+    "NeuralBot_041": 10691.9681,
+    "NeuralBot_042": 9864.4768,
+    "NeuralBot_043": 9921.5006,
+    "NeuralBot_044": 8262.5064,
+    "NeuralBot_045": 11670.9995,
+    "NeuralBot_046": 9405.7554,
+    "NeuralBot_047": 9884.5823,
+    "NeuralBot_048": 12760.8361,
+    "NeuralBot_049": 9855.8754,
+    "NeuralBot_050": 10618.5332,
+    "NeuralBot_051": 7981.9217,
+    "NeuralBot_052": 9574.9015,
+    "NeuralBot_053": 11008.0074,
+    "NeuralBot_054": 10731.2781,
+    "NeuralBot_055": 9288.1548,
+    "NeuralBot_056": 11483.6751,
+    "NeuralBot_057": 9852.984,
+    "NeuralBot_058": 11617.4044,
+    "NeuralBot_059": 11191.8785,
+    "NeuralBot_060": 10843.2525
+  }
+}

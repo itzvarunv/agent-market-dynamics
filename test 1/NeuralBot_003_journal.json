@@ -1,0 +1,456 @@
+{
+  "agent_id": "NeuralBot_003",
+  "status": "Alive",
+  "journal": [
+    {
+      "step": 1,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0538,
+      "actual_clearing_price": 138.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.18
+    },
+    {
+      "step": 2,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0527,
+      "actual_clearing_price": 115.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.23
+    },
+    {
+      "step": 3,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0491,
+      "actual_clearing_price": 109.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.24
+    },
+    {
+      "step": 4,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0482,
+      "actual_clearing_price": 103.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 5,
+      "ticker_traded": "OMEGA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0501,
+      "actual_clearing_price": 128.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 6,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0448,
+      "actual_clearing_price": 130.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.2
+    },
+    {
+      "step": 7,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0467,
+      "actual_clearing_price": 68.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.24
+    },
+    {
+      "step": 8,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0422,
+      "actual_clearing_price": 123.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.21
+    },
+    {
+      "step": 9,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0411,
+      "actual_clearing_price": 116.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.22
+    },
+    {
+      "step": 10,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0386,
+      "actual_clearing_price": 97.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.26
+    },
+    {
+      "step": 11,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0359,
+      "actual_clearing_price": 64.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.26
+    },
+    {
+      "step": 12,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0345,
+      "actual_clearing_price": 61.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.27
+    },
+    {
+      "step": 13,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.034,
+      "actual_clearing_price": 92.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.27
+    },
+    {
+      "step": 14,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0338,
+      "actual_clearing_price": 110.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.23
+    },
+    {
+      "step": 15,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0326,
+      "actual_clearing_price": 104.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 16,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0299,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 17,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0272,
+      "actual_clearing_price": 99.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.27
+    },
+    {
+      "step": 18,
+      "ticker_traded": "OMEGA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0229,
+      "actual_clearing_price": 121.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.26
+    },
+    {
+      "step": 19,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.023,
+      "actual_clearing_price": 58.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.28
+    },
+    {
+      "step": 20,
+      "ticker_traded": "OMEGA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0197,
+      "actual_clearing_price": 114.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.27
+    },
+    {
+      "step": 21,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0183,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 22,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0164,
+      "actual_clearing_price": 99.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 23,
+      "ticker_traded": "OMEGA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0164,
+      "actual_clearing_price": 108.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 24,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0144,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.32
+    },
+    {
+      "step": 25,
+      "ticker_traded": "ALPHA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0108,
+      "actual_clearing_price": 99.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 26,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0113,
+      "actual_clearing_price": 58.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 27,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0057,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.33
+    },
+    {
+      "step": 28,
+      "ticker_traded": "GAMMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.002,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.35
+    },
+    {
+      "step": 29,
+      "ticker_traded": "SIGMA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0089,
+      "actual_clearing_price": 55.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 30,
+      "ticker_traded": "OMEGA",
+      "action": "BUY",
+      "predicted_multiplier": 1.0048,
+      "actual_clearing_price": 103.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 31,
+      "ticker_traded": "GAMMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9947,
+      "actual_clearing_price": 87.0,
+      "net_profit_margin": -25.9499,
+      "dividend_earned": 0.33
+    },
+    {
+      "step": 32,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.993,
+      "actual_clearing_price": 98.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 33,
+      "ticker_traded": "OMEGA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9976,
+      "actual_clearing_price": 103.0,
+      "net_profit_margin": -29.6904,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 34,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9829,
+      "actual_clearing_price": 96.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 35,
+      "ticker_traded": "GAMMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9796,
+      "actual_clearing_price": 85.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.33
+    },
+    {
+      "step": 36,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9796,
+      "actual_clearing_price": 94.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.3
+    },
+    {
+      "step": 37,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9785,
+      "actual_clearing_price": 93.0,
+      "net_profit_margin": -39.5837,
+      "dividend_earned": 0.28
+    },
+    {
+      "step": 38,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9801,
+      "actual_clearing_price": 54.0,
+      "net_profit_margin": -17.2276,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 39,
+      "ticker_traded": "OMEGA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9766,
+      "actual_clearing_price": 101.0,
+      "net_profit_margin": -31.6904,
+      "dividend_earned": 0.28
+    },
+    {
+      "step": 40,
+      "ticker_traded": "OMEGA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9687,
+      "actual_clearing_price": 99.0,
+      "net_profit_margin": -33.6904,
+      "dividend_earned": 0.26
+    },
+    {
+      "step": 41,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.957,
+      "actual_clearing_price": 93.0,
+      "net_profit_margin": -39.5837,
+      "dividend_earned": 0.26
+    },
+    {
+      "step": 42,
+      "ticker_traded": "OMEGA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9544,
+      "actual_clearing_price": 99.0,
+      "net_profit_margin": -33.6904,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 43,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9508,
+      "actual_clearing_price": 47.0,
+      "net_profit_margin": -2.0,
+      "dividend_earned": 0.29
+    },
+    {
+      "step": 44,
+      "ticker_traded": "GAMMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9393,
+      "actual_clearing_price": 80.0,
+      "net_profit_margin": -32.9499,
+      "dividend_earned": 0.32
+    },
+    {
+      "step": 45,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9391,
+      "actual_clearing_price": 47.0,
+      "net_profit_margin": -24.2276,
+      "dividend_earned": 0.28
+    },
+    {
+      "step": 46,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9365,
+      "actual_clearing_price": 47.0,
+      "net_profit_margin": -24.2276,
+      "dividend_earned": 0.27
+    },
+    {
+      "step": 47,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9251,
+      "actual_clearing_price": 93.0,
+      "net_profit_margin": -39.5837,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 48,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9245,
+      "actual_clearing_price": 47.0,
+      "net_profit_margin": -24.2276,
+      "dividend_earned": 0.25
+    },
+    {
+      "step": 49,
+      "ticker_traded": "ALPHA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9127,
+      "actual_clearing_price": 93.0,
+      "net_profit_margin": -39.5837,
+      "dividend_earned": 0.24
+    },
+    {
+      "step": 50,
+      "ticker_traded": "SIGMA",
+      "action": "SELL",
+      "predicted_multiplier": 0.9103,
+      "actual_clearing_price": 47.0,
+      "net_profit_margin": -24.2276,
+      "dividend_earned": 0.23
+    }
+  ]
+}

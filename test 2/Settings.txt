@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------------
+TEST 2: THE DEFLATIONARY TRAGEDY OF THE COMMONS (60 Agents / 50 Steps)
+--------------------------------------------------------------------------------
+[Environmental Knobs]
+- Starting Liquid Cash (Per Agent) : $5,000.00
+- Initial Inventory Assets         : Sizable (Average baseline ~$10,268.04)
+- Step Infrastructure Tax          : $0.25 fixed per tick (COMPUTE_COST)
+- Dividend Multiplier              : 10% (0.10)
+- Simulation Scale                 : 60 Agents / 50 Steps
+
+[Resulting Agent Behavior]
+- The 90% Melt-down: Low taxes eliminated bankruptcy completely (0% mortality).
+- Algorithmic Panic Loop: Backpropagation processed early price drops as a systemic 
+  threat. Model_Bias dropped to an average of 0.9378.
+- The Hold Denied Trap: Attempts to hold assets triggered "HOLD_DENIED" exceptions, 
+  penalizing agents -$0.25 per turn. Networks learned that holding inventory 
+  incurs a structural drainage penalty, triggering an aggregate panic-selloff.
+- Dividend Void: Because clearing prices consistently fell below live benchmarks, 
+  the dynamic dividend modifier failed to trigger, leaving agents with base $0.05 payouts.
+--------------------------------------------------------------------------------

@@ -1,0 +1,432 @@
+{
+  "initial_prices": {
+    "SIGMA": 71.8558,
+    "OMEGA": 135.2483,
+    "ALPHA": 145.5944,
+    "GAMMA": 121.4203
+  },
+  "bot_allocations": {
+    "NeuralBot_001": {
+      "SIGMA": 24,
+      "OMEGA": 5,
+      "ALPHA": 9,
+      "GAMMA": 8
+    },
+    "NeuralBot_002": {
+      "SIGMA": 9,
+      "OMEGA": 20,
+      "ALPHA": 13,
+      "GAMMA": 6
+    },
+    "NeuralBot_003": {
+      "SIGMA": 22,
+      "OMEGA": 23,
+      "ALPHA": 16,
+      "GAMMA": 22
+    },
+    "NeuralBot_004": {
+      "SIGMA": 12,
+      "OMEGA": 21,
+      "ALPHA": 24,
+      "GAMMA": 16
+    },
+    "NeuralBot_005": {
+      "SIGMA": 5,
+      "OMEGA": 6,
+      "ALPHA": 12,
+      "GAMMA": 7
+    },
+    "NeuralBot_006": {
+      "SIGMA": 22,
+      "OMEGA": 18,
+      "ALPHA": 20,
+      "GAMMA": 22
+    },
+    "NeuralBot_007": {
+      "SIGMA": 22,
+      "OMEGA": 25,
+      "ALPHA": 9,
+      "GAMMA": 17
+    },
+    "NeuralBot_008": {
+      "SIGMA": 16,
+      "OMEGA": 15,
+      "ALPHA": 21,
+      "GAMMA": 12
+    },
+    "NeuralBot_009": {
+      "SIGMA": 12,
+      "OMEGA": 5,
+      "ALPHA": 24,
+      "GAMMA": 19
+    },
+    "NeuralBot_010": {
+      "SIGMA": 19,
+      "OMEGA": 6,
+      "ALPHA": 19,
+      "GAMMA": 21
+    },
+    "NeuralBot_011": {
+      "SIGMA": 16,
+      "OMEGA": 10,
+      "ALPHA": 24,
+      "GAMMA": 17
+    },
+    "NeuralBot_012": {
+      "SIGMA": 21,
+      "OMEGA": 8,
+      "ALPHA": 21,
+      "GAMMA": 6
+    },
+    "NeuralBot_013": {
+      "SIGMA": 23,
+      "OMEGA": 10,
+      "ALPHA": 6,
+      "GAMMA": 14
+    },
+    "NeuralBot_014": {
+      "SIGMA": 10,
+      "OMEGA": 18,
+      "ALPHA": 25,
+      "GAMMA": 19
+    },
+    "NeuralBot_015": {
+      "SIGMA": 10,
+      "OMEGA": 14,
+      "ALPHA": 23,
+      "GAMMA": 14
+    },
+    "NeuralBot_016": {
+      "SIGMA": 25,
+      "OMEGA": 24,
+      "ALPHA": 19,
+      "GAMMA": 23
+    },
+    "NeuralBot_017": {
+      "SIGMA": 10,
+      "OMEGA": 20,
+      "ALPHA": 19,
+      "GAMMA": 25
+    },
+    "NeuralBot_018": {
+      "SIGMA": 22,
+      "OMEGA": 11,
+      "ALPHA": 7,
+      "GAMMA": 7
+    },
+    "NeuralBot_019": {
+      "SIGMA": 19,
+      "OMEGA": 13,
+      "ALPHA": 7,
+      "GAMMA": 14
+    },
+    "NeuralBot_020": {
+      "SIGMA": 18,
+      "OMEGA": 13,
+      "ALPHA": 22,
+      "GAMMA": 8
+    },
+    "NeuralBot_021": {
+      "SIGMA": 22,
+      "OMEGA": 13,
+      "ALPHA": 23,
+      "GAMMA": 21
+    },
+    "NeuralBot_022": {
+      "SIGMA": 15,
+      "OMEGA": 17,
+      "ALPHA": 16,
+      "GAMMA": 12
+    },
+    "NeuralBot_023": {
+      "SIGMA": 22,
+      "OMEGA": 11,
+      "ALPHA": 22,
+      "GAMMA": 17
+    },
+    "NeuralBot_024": {
+      "SIGMA": 17,
+      "OMEGA": 14,
+      "ALPHA": 25,
+      "GAMMA": 25
+    },
+    "NeuralBot_025": {
+      "SIGMA": 23,
+      "OMEGA": 16,
+      "ALPHA": 12,
+      "GAMMA": 19
+    },
+    "NeuralBot_026": {
+      "SIGMA": 20,
+      "OMEGA": 7,
+      "ALPHA": 23,
+      "GAMMA": 8
+    },
+    "NeuralBot_027": {
+      "SIGMA": 18,
+      "OMEGA": 18,
+      "ALPHA": 10,
+      "GAMMA": 9
+    },
+    "NeuralBot_028": {
+      "SIGMA": 5,
+      "OMEGA": 23,
+      "ALPHA": 25,
+      "GAMMA": 6
+    },
+    "NeuralBot_029": {
+      "SIGMA": 5,
+      "OMEGA": 20,
+      "ALPHA": 18,
+      "GAMMA": 20
+    },
+    "NeuralBot_030": {
+      "SIGMA": 15,
+      "OMEGA": 8,
+      "ALPHA": 15,
+      "GAMMA": 12
+    },
+    "NeuralBot_031": {
+      "SIGMA": 19,
+      "OMEGA": 24,
+      "ALPHA": 9,
+      "GAMMA": 22
+    },
+    "NeuralBot_032": {
+      "SIGMA": 20,
+      "OMEGA": 11,
+      "ALPHA": 10,
+      "GAMMA": 18
+    },
+    "NeuralBot_033": {
+      "SIGMA": 21,
+      "OMEGA": 10,
+      "ALPHA": 20,
+      "GAMMA": 22
+    },
+    "NeuralBot_034": {
+      "SIGMA": 12,
+      "OMEGA": 13,
+      "ALPHA": 17,
+      "GAMMA": 25
+    },
+    "NeuralBot_035": {
+      "SIGMA": 13,
+      "OMEGA": 16,
+      "ALPHA": 10,
+      "GAMMA": 16
+    },
+    "NeuralBot_036": {
+      "SIGMA": 15,
+      "OMEGA": 6,
+      "ALPHA": 11,
+      "GAMMA": 5
+    },
+    "NeuralBot_037": {
+      "SIGMA": 12,
+      "OMEGA": 6,
+      "ALPHA": 15,
+      "GAMMA": 17
+    },
+    "NeuralBot_038": {
+      "SIGMA": 11,
+      "OMEGA": 9,
+      "ALPHA": 9,
+      "GAMMA": 23
+    },
+    "NeuralBot_039": {
+      "SIGMA": 10,
+      "OMEGA": 22,
+      "ALPHA": 20,
+      "GAMMA": 20
+    },
+    "NeuralBot_040": {
+      "SIGMA": 16,
+      "OMEGA": 20,
+      "ALPHA": 17,
+      "GAMMA": 9
+    },
+    "NeuralBot_041": {
+      "SIGMA": 16,
+      "OMEGA": 9,
+      "ALPHA": 19,
+      "GAMMA": 12
+    },
+    "NeuralBot_042": {
+      "SIGMA": 19,
+      "OMEGA": 20,
+      "ALPHA": 14,
+      "GAMMA": 17
+    },
+    "NeuralBot_043": {
+      "SIGMA": 16,
+      "OMEGA": 13,
+      "ALPHA": 5,
+      "GAMMA": 14
+    },
+    "NeuralBot_044": {
+      "SIGMA": 22,
+      "OMEGA": 17,
+      "ALPHA": 17,
+      "GAMMA": 11
+    },
+    "NeuralBot_045": {
+      "SIGMA": 21,
+      "OMEGA": 12,
+      "ALPHA": 7,
+      "GAMMA": 8
+    },
+    "NeuralBot_046": {
+      "SIGMA": 20,
+      "OMEGA": 16,
+      "ALPHA": 24,
+      "GAMMA": 9
+    },
+    "NeuralBot_047": {
+      "SIGMA": 23,
+      "OMEGA": 11,
+      "ALPHA": 20,
+      "GAMMA": 13
+    },
+    "NeuralBot_048": {
+      "SIGMA": 24,
+      "OMEGA": 23,
+      "ALPHA": 6,
+      "GAMMA": 13
+    },
+    "NeuralBot_049": {
+      "SIGMA": 20,
+      "OMEGA": 5,
+      "ALPHA": 19,
+      "GAMMA": 9
+    },
+    "NeuralBot_050": {
+      "SIGMA": 16,
+      "OMEGA": 9,
+      "ALPHA": 6,
+      "GAMMA": 10
+    },
+    "NeuralBot_051": {
+      "SIGMA": 9,
+      "OMEGA": 10,
+      "ALPHA": 15,
+      "GAMMA": 23
+    },
+    "NeuralBot_052": {
+      "SIGMA": 19,
+      "OMEGA": 21,
+      "ALPHA": 9,
+      "GAMMA": 19
+    },
+    "NeuralBot_053": {
+      "SIGMA": 21,
+      "OMEGA": 9,
+      "ALPHA": 10,
+      "GAMMA": 8
+    },
+    "NeuralBot_054": {
+      "SIGMA": 21,
+      "OMEGA": 20,
+      "ALPHA": 13,
+      "GAMMA": 20
+    },
+    "NeuralBot_055": {
+      "SIGMA": 16,
+      "OMEGA": 18,
+      "ALPHA": 22,
+      "GAMMA": 20
+    },
+    "NeuralBot_056": {
+      "SIGMA": 10,
+      "OMEGA": 8,
+      "ALPHA": 8,
+      "GAMMA": 24
+    },
+    "NeuralBot_057": {
+      "SIGMA": 12,
+      "OMEGA": 14,
+      "ALPHA": 23,
+      "GAMMA": 9
+    },
+    "NeuralBot_058": {
+      "SIGMA": 16,
+      "OMEGA": 14,
+      "ALPHA": 17,
+      "GAMMA": 12
+    },
+    "NeuralBot_059": {
+      "SIGMA": 20,
+      "OMEGA": 18,
+      "ALPHA": 10,
+      "GAMMA": 21
+    },
+    "NeuralBot_060": {
+      "SIGMA": 21,
+      "OMEGA": 22,
+      "ALPHA": 21,
+      "GAMMA": 19
+    }
+  },
+  "baseline_net_worths": {
+    "NeuralBot_001": 9682.4927,
+    "NeuralBot_002": 10972.9172,
+    "NeuralBot_003": 14692.2955,
+    "NeuralBot_004": 14139.4743,
+    "NeuralBot_005": 8767.8437,
+    "NeuralBot_006": 14598.4316,
+    "NeuralBot_007": 13336.5298,
+    "NeuralBot_008": 12692.9433,
+    "NeuralBot_009": 12339.7624,
+    "NeuralBot_010": 12492.8699,
+    "NeuralBot_011": 13060.5865,
+    "NeuralBot_012": 11376.9624,
+    "NeuralBot_013": 10578.617,
+    "NeuralBot_014": 14099.8731,
+    "NeuralBot_015": 12660.5896,
+    "NeuralBot_016": 15601.3147,
+    "NeuralBot_017": 14225.3251,
+    "NeuralBot_018": 9937.6618,
+    "NeuralBot_019": 10842.5331,
+    "NeuralBot_020": 12226.0715,
+    "NeuralBot_021": 14237.553,
+    "NeuralBot_022": 12163.6121,
+    "NeuralBot_023": 13335.7808,
+    "NeuralBot_024": 14790.3923,
+    "NeuralBot_025": 12870.7747,
+    "NeuralBot_026": 11703.8877,
+    "NeuralBot_027": 11276.6005,
+    "NeuralBot_028": 12838.3717,
+    "NeuralBot_029": 13113.3502,
+    "NeuralBot_030": 10800.783,
+    "NeuralBot_031": 13592.8156,
+    "NeuralBot_032": 11566.3567,
+    "NeuralBot_033": 13444.5894,
+    "NeuralBot_034": 13131.1098,
+    "NeuralBot_035": 11496.767,
+    "NeuralBot_036": 9097.9667,
+    "NeuralBot_037": 10921.8205,
+    "NeuralBot_038": 11110.665,
+    "NeuralBot_039": 14034.3146,
+    "NeuralBot_040": 12422.5463,
+    "NeuralBot_041": 11590.2647,
+    "NeuralBot_042": 13172.6929,
+    "NeuralBot_043": 10335.7769,
+    "NeuralBot_044": 12690.7768,
+    "NeuralBot_045": 10122.4746,
+    "NeuralBot_046": 13188.1371,
+    "NeuralBot_047": 12630.7666,
+    "NeuralBot_048": 12287.2804,
+    "NeuralBot_049": 10972.4338,
+    "NeuralBot_050": 9454.6969,
+    "NeuralBot_051": 11975.7681,
+    "NeuralBot_052": 12822.8098,
+    "NeuralBot_053": 10153.5129,
+    "NeuralBot_054": 13535.071,
+    "NeuralBot_055": 14215.645,
+    "NeuralBot_056": 10879.3868,
+    "NeuralBot_057": 12197.1997,
+    "NeuralBot_058": 11975.3174,
+    "NeuralBot_059": 12877.3557,
+    "NeuralBot_060": 14848.9025
+  }
+}
